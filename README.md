@@ -1,0 +1,2 @@
+# rs-test
+rust demo
